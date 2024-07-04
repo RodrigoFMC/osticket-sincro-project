@@ -12,8 +12,6 @@
 
     class.dispatcher.php ajax.php(scp e upload) ajax.forms.php header.inc.php class.forms.php class.file.php
     ticket-open.inc.php open.inc.php
-    TODO escrever documento que permite perceber como o plugin pode ser utilizado com o prj 15
-    TODO preenchimento atraves da api temos que ver porque ele precisa do id do item da lista 
     link de teste ajax: http://localhost/osTicket/upload/scp/ajax.php/ajax-options/getOptions/ost_SINCRO_cabinet/address/Porto
 
  *********************************************************************/
