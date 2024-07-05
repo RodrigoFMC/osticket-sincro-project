@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['radardetailsconfig_0',['RadarDetailsConfig',['../class_radar_details_config.html',1,'']]],
+  ['radardetailsplugin_1',['RadarDetailsPlugin',['../class_radar_details_plugin.html',1,'']]],
+  ['radardetailsplugin_2ephp_2',['RadarDetailsPlugin.php',['../_radar_details_plugin_8php.html',1,'']]],
+  ['registerdispatchsclient_3',['registerDispatchsClient',['../class_radar_details_plugin.html#a89bf68e4f7d8f1f843ea3941637635b7',1,'RadarDetailsPlugin']]],
+  ['registerdispatchsstaff_4',['registerDispatchsStaff',['../class_radar_details_plugin.html#a400a2e271840459ed7929a2974639599',1,'RadarDetailsPlugin']]],
+  ['removebackdropbyid_5',['removeBackdropById',['../class_plugin_data_base_manager.html#a893239a3dfbdd4e95c6e1c8bb29f2b5a',1,'PluginDataBaseManager']]],
+  ['removeconfigelementbykey_6',['removeConfigElementByKey',['../class_plugin_data_base_manager.html#af4efdb9c0fb950fca43d2aae818bd51b',1,'PluginDataBaseManager']]],
+  ['removefilebyid_7',['removeFileById',['../class_plugin_data_base_manager.html#a402c2738e1c7827aef76b0ad3dc57122',1,'PluginDataBaseManager']]],
+  ['removeinjectedcode_8',['removeInjectedCode',['../class_radar_details_plugin.html#af0ac3e55d5a94c976b951952f879ff2c',1,'RadarDetailsPlugin']]],
+  ['removeinjectedcodefromfiles_9',['removeInjectedCodeFromFiles',['../class_radar_details_plugin.html#aa47c3bc85f2779915f09589bef5e59e2',1,'RadarDetailsPlugin']]],
+  ['removeinjectedcodefromformclass_10',['removeInjectedCodeFromFormClass',['../class_radar_details_plugin.html#a419322511ccb1b3c63e84fc476184b3a',1,'RadarDetailsPlugin']]],
+  ['removelogobyid_11',['removeLogoById',['../class_plugin_data_base_manager.html#ac3c3e0f54d893b62d431904e18963f9b',1,'PluginDataBaseManager']]],
+  ['removercamposnecessarios_12',['removerCamposNecessarios',['../class_plugin_data_base_manager.html#a3dc6713da7cd9b112bd054e3d27ad486',1,'PluginDataBaseManager']]],
+  ['removerlistacabines_13',['removerListaCabines',['../class_plugin_data_base_manager.html#aafa09512d10b608683ff17a3b4a754d0',1,'PluginDataBaseManager']]],
+  ['removeuploadedfile_14',['removeUploadedFile',['../class_radar_details_plugin.html#ac4cf858139307a057d6c78e3a41b3002',1,'RadarDetailsPlugin']]],
+  ['removeuploadedfiles_15',['removeUploadedFiles',['../class_radar_details_plugin.html#a35edc07c99aa4ca9b654c84d7d5210b6',1,'RadarDetailsPlugin']]],
+  ['resetfirstrun_16',['resetFirstRun',['../class_radar_details_plugin.html#a83d66f572c3ee7d56009ec4f9586e3f6',1,'RadarDetailsPlugin']]],
+  ['restoreplugininfofrombackup_17',['restorePluginInfoFromBackup',['../class_plugin_data_base_manager.html#a8f829c203c64cedb7a265b0b04d609c1',1,'PluginDataBaseManager']]],
+  ['rollback_18',['rollback',['../class_database_helper.html#ab2a03590a3046ee55fcefb14b69a9d31',1,'DatabaseHelper']]]
+];
